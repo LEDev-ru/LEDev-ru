@@ -20,7 +20,7 @@
   <a href="https://ledev.ru/">
   <img src="https://img.shields.io/badge/website-blue?style=for-the-badge" />
   </a>
-  <a href="https://t.me/ledev_ru2/">
+  <a href="https://t.me/ledev_ru/">
   <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram" />
   </a>
   <!--
