@@ -13,7 +13,7 @@
   
   ---
   <h3>About Me</h3>
-  I have been learning different programming languages and technologies for 5 years now. I have been working in commercial development for the last 2 years. I am open to new suggestions and ideas =D
+  I have been learning different programming languages and technologies for about 6 years now. I have been working in commercial development for the last 3 years. I am open to new suggestions and ideas =D
 
   ---
   <h3>Links</h3>
@@ -21,7 +21,10 @@
   <img src="https://img.shields.io/badge/website-blue?style=for-the-badge" />
   </a>
   <a href="https://t.me/ledev_ru/">
-  <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram" />
+  <img src="https://img.shields.io/badge/tg%20channel-white?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="https://t.me/ledevru/">
+  <img src="https://img.shields.io/badge/telegram%20pm-white?style=for-the-badge&logo=telegram" />
   </a>
   <!--
   <a href="https://vk.com/">
