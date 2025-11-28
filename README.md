@@ -1,6 +1,8 @@
 <div align="center">
   <h2>Hello! I'm LEDev =D</h2>
-  I am developer from Russia. In the future, I plan to start my own successful IT company.
+  I am developer from Russia.
+  <br>
+  <i>TODO: Add some info about me and technologies to list below</i>
   <br/><br/>
   These are technologies that I know how to work with:
   <br/><br/>
